@@ -7,7 +7,7 @@
 Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
 
 Stack Overflow is something which every programmer use one way or another. Each month, over 50 million developers come to Stack Overflow to learn, share their knowledge, and build their careers. It features questions and answers on a wide range of topics in computer programming. The website serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg. As of April 2014 Stack Overflow has over 4,000,000 registered users, and it exceeded 10,000,000 questions in late August 2015. Based on the type of tags assigned to questions, the top eight most discussed topics on the site are: Java, JavaScript, C#, PHP, Android, jQuery, Python and HTML.
-{: .text-justify}
+
 
 ### 1.2 Problem Statemtent
 <!-- <p style='font-size:18px'><b> Problem Statemtent </b></p> -->
@@ -65,7 +65,7 @@ Dataset contains 6,034,195 rows. The columns in the table are:<br />
 
 It is a multi-label classification problem.<br>
 <b>Multi-label Classification</b>: Multilabel classification assigns to each sample a set of target labels. This can be thought as predicting properties of a data-point that are not mutually exclusive, such as topics that are relevant for a document. A question on Stackoverflow might be about any of C, Pointers, FileIO and/or memory-management at the same time or none of these.
-{: .text-justify}
+
 
 ### 2.2.2 Performance metric
 

@@ -67,9 +67,6 @@ It is a multi-label classification problem.<br>
 <b>Multi-label Classification</b>: Multilabel classification assigns to each sample a set of target labels. This can be thought as predicting properties of a data-point that are not mutually exclusive, such as topics that are relevant for a document. A question on Stackoverflow might be about any of C, Pointers, FileIO and/or memory-management at the same time or none of these.
 {: .text-justify}
 
-__Credit__: <a href="http://scikit-learn.org/stable/modules/multiclass.html">http://scikit-learn.org/stable/modules/multiclass.html</a>
-
-
 ### 2.2.2 Performance metric
 
   - <b>Micro-Averaged F1-Score (Mean F Score) </b>: 

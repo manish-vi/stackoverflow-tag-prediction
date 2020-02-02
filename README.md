@@ -103,7 +103,7 @@ You need to have installed following softwares and libraries before running this
     * i) pip install scikit-learn
     * ii) conda install -c anaconda scikit-learn
 
-* __nltk:__ It is used to make xgboost regression model. 
+* __nltk:__ The Natural Language Toolkit (NLTK) is a Python package for natural language processing. 
     * i)  pip install nltk
     * ii) conda install -c anaconda nltk
     

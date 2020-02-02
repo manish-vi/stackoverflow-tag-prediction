@@ -98,7 +98,7 @@ You need to have installed following softwares and libraries before running this
 1. Python 3: https://www.python.org/downloads/
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
 
-## Libraries: 
+## Libraries
 * __scikit-learn:__ scikit-learn is a Python module for machine learning built on top of SciPy.
     * pip install scikit-learn
     * conda install -c anaconda scikit-learn

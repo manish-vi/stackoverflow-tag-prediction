@@ -95,7 +95,7 @@ https://www.kaggle.com/wiki/HammingLoss <br>
 Start by downloading the project and run "StackOverFlow_Tag_Prediction.ipynb" file in ipython-notebook.
 
 ## Prerequisites
-You need to have installed following softwares and libraries in your machine before running this project.
+You need to have installed following softwares and libraries before running this project.
 1. Python 3: https://www.python.org/downloads/
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
 

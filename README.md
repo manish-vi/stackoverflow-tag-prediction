@@ -86,7 +86,7 @@ Calculate metrics for each label, and find their unweighted mean. This does not 
 
     <a href="https://www.kaggle.com/wiki/MeanFScore">https://www.kaggle.com/wiki/MeanFScore</a> <br>
     <a href="http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html">http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html</a><br>
-<br>
+    
  - <b> Hamming loss </b>: The Hamming loss is the fraction of labels that are incorrectly predicted. <br>
 https://www.kaggle.com/wiki/HammingLoss <br>
 

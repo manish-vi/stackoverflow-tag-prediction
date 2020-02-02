@@ -82,7 +82,6 @@ Calculate metrics globally by counting the total true positives, false negatives
 
   - <b>Macro f1 score: </b><br>
 Calculate metrics for each label, and find their unweighted mean. This does not take label imbalance into account.
-<br>
 
     <a href="https://www.kaggle.com/wiki/MeanFScore">https://www.kaggle.com/wiki/MeanFScore</a> <br>
     <a href="http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html">http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html</a><br>

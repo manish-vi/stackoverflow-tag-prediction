@@ -89,3 +89,25 @@ Calculate metrics for each label, and find their unweighted mean. This does not 
 <br>
   - <b> Hamming loss </b>: The Hamming loss is the fraction of labels that are incorrectly predicted. <br>
 https://www.kaggle.com/wiki/HammingLoss <br>
+
+
+## Getting Started
+Start by downloading the project and run "StackOverFlow_Tag_Prediction.ipynb" file in ipython-notebook.
+
+## Prerequisites
+You need to have installed following softwares and libraries in your machine before running this project.
+1. Python 3: https://www.python.org/downloads/
+2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
+
+## Libraries: 
+* __scikit-learn:__ scikit-learn is a Python module for machine learning built on top of SciPy.
+    * i) pip install scikit-learn
+    * ii) conda install -c anaconda scikit-learn
+
+* __nltk:__ It is used to make xgboost regression model. 
+    * i)  pip install nltk
+    * ii) conda install -c anaconda nltk
+    
+
+## Authors
+•	Manish Vishwakarma - Complete work  

@@ -100,12 +100,12 @@ You need to have installed following softwares and libraries before running this
 
 ## Libraries: 
 * __scikit-learn:__ scikit-learn is a Python module for machine learning built on top of SciPy.
-    i) pip install scikit-learn
-    ii) conda install -c anaconda scikit-learn
+    * pip install scikit-learn
+    * conda install -c anaconda scikit-learn
 
 * __nltk:__ The Natural Language Toolkit (NLTK) is a Python package for natural language processing. 
-    i)  pip install nltk
-    * ii) conda install -c anaconda nltk
+    * pip install nltk
+    * conda install -c anaconda nltk
     
 
 ## Authors
